@@ -10,7 +10,7 @@ I'm using https://programming-25.mooc.fi/part-1 its pretty interactive and devel
 
 ## Introduction to programming
 
-              Part 1 [x]
+              ### Part 1 -[x]
                
                 -Getting started
                 -Information from user
@@ -18,9 +18,9 @@ I'm using https://programming-25.mooc.fi/part-1 its pretty interactive and devel
                 -Arithmetic operations
                 -conditional statements
               
-              part 2 [x]
-              part 3 [x]
-              part 4 [] continuing
+             ### part 2 -[x]
+             ### part 3 -[x]
+             ### part 4 -[] continuing
 
             
 
