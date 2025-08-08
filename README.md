@@ -10,7 +10,7 @@ I'm using https://programming-25.mooc.fi/part-1 its pretty interactive and devel
 
 ## Introduction to programming
 
-              ###  Part 1
+              ### Part 1
                
                 -Getting started
                 -Information from user
