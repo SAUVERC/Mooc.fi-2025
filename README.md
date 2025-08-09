@@ -11,11 +11,11 @@ I'm using https://programming-25.mooc.fi/part-1 its pretty interactive and devel
 ## Introduction to programming
 ### Part 1 ✅
                
--Getting started
--Information from use
--More about varaibles
--Arithmetic operations
--conditional statements
+- Getting started
+- Information from use
+- More about varaibles
+- Arithmetic operations
+- conditional statements
 
 ### part 2 ✅
 ### part 3 ✅
